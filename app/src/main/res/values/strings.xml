@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Interval Timer</string>
+    <string name="timer_title">Интервальная тренировка</string>
+    <string name="timer_subtitle">Настройте нагрузку и начните тренировку</string>
+    <string name="work_duration_hint">Работа, секунды</string>
+    <string name="rest_duration_hint">Отдых, секунды</string>
+    <string name="round_count_hint">Количество кругов</string>
+    <string name="work_duration_label">Время работы (секунды)</string>
+    <string name="rest_duration_label">Время отдыха (секунды)</string>
+    <string name="round_count_label">Количество кругов</string>
+    <string name="default_work_duration">30</string>
+    <string name="default_rest_duration">15</string>
+    <string name="default_round_count">5</string>
+    <string name="start_workout">Начать тренировку</string>
+    <string name="about_app">О приложении</string>
+    <string name="invalid_settings">Введите длительность от 1 до 3600 секунд и от 1 до 99 кругов.</string>
+    <string name="work_phase">Работа</string>
+    <string name="rest_phase">Отдых</string>
+    <string name="round_progress">Круг %1$d из %2$d</string>
+    <string name="countdown_format">%1$02d:%2$02d</string>
+    <string name="start_timer">Старт</string>
+    <string name="pause_timer">Пауза</string>
+    <string name="reset_timer">Сбросить</string>
+    <string name="back_to_settings">Изменить параметры</string>
+    <string name="result_title">Тренировка завершена</string>
+    <string name="result_summary">Выполнено кругов: %1$d из %2$d</string>
+    <string name="new_workout">Новая тренировка</string>
+    <string name="about_title">О приложении</string>
+    <string name="about_description">Interval Timer — приложение для интервальных тренировок.\n\nАвтор: user1\nВерсия: 1.0</string>
+    <string name="back">Назад</string>
+</resources>

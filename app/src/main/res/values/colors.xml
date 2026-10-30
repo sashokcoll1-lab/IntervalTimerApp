@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#F7F9FC</color>
+    <color name="text_primary">#18212F</color>
+    <color name="text_secondary">#536174</color>
+    <color name="timer_blue">#1565C0</color>
+</resources>
